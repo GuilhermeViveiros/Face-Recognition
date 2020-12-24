@@ -14,3 +14,7 @@ The paper (written in portuguese): [Paper](https://github.com/GuilhermeViveiros/
 
 Main author : [Guilherme Viveiros](https://www.linkedin.com/in/guilherme-viveiros-28985418b/)
 
+Hopefully with this work, one can understand the potential inherent in PCA
+
+![Faces](https://media1.tenor.com/images/44e1f590924eca94fe86067a4cf44c72/tenor.gif?itemid=3394328)
+
