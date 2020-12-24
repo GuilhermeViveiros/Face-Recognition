@@ -1,9 +1,12 @@
-# Sistema de reconhecimento facial feito com jupyter em Python
+# Facial Recognition & Principal Component Analysis (PCA)
 
-Utilização de Principal componenet analysis(PCA) e Singular values Decomposition(SVD) como técnicas para reconhecimento.
+This work pretends to build a python script to detect a person's face within a subset of 8 different people.\
+To do this, we used **Principal Component Analysis (PCA)** with **Singular Value Decomposition(SVD)** to reduce the size the dimensionality of the dataset preserving at least 90% of the data.\
+Additionally, we attach arbitrary faces the problem to evaluate the effectiveness of the algorithm.
 
-Trabalho -> PCA&Face_Recognition
-Explicação -> Paper
+The data used in this work is here:
 
-Reconhecimento facial utilizada 8 imagens por cada elemnto, e tem um conjunto de 6 elementos. 
-Por fim algumas faces fora do conjunto de elementos são uitilizadas para demonstrar e provar resultados.
+The code and subsequent results:
+
+The paper (written in portuguese):
+
