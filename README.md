@@ -1,6 +1,6 @@
 # Facial Recognition & Principal Component Analysis (PCA)
 
-This work present a python script to detect a person's face within a subset of 8 different people.\
+This work present a python script to detect a person's face within a subset of 8 different people.
 
 To do this, we used **Principal Component Analysis (PCA)** with **Singular Value Decomposition(SVD)** to reduce the size the dimensionality of the dataset preserving at least 90% of the data.
 
