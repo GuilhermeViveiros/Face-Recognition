@@ -10,7 +10,7 @@ The data used in this work is here: [Faces](https://github.com/GuilhermeViveiros
 
 The code and subsequent results: [Code](https://github.com/GuilhermeViveiros/Face-Recognition/blob/master/FaceRecognition.ipynb)
 
-The paper (written in portuguese): [Paper] (https://github.com/GuilhermeViveiros/Face-Recognition/tree/master/Face_recognition_paper)
+The paper (written in portuguese): [Paper](https://github.com/GuilhermeViveiros/Face-Recognition/tree/master/Face_recognition_paper)
 
-Main author : [Guilherme Viveiros] (https://www.linkedin.com/in/guilherme-viveiros-28985418b/)
+Main author : [Guilherme Viveiros](https://www.linkedin.com/in/guilherme-viveiros-28985418b/)
 
